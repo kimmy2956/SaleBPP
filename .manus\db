@@ -1,0 +1,9 @@
+{
+  "query": "INSERT INTO sales_users (username, password, fullName, isActive) VALUES ('salebpp', '15e2b0d3c33891ebb0f1ef609ec419420c20e320ce94c65fbc8c3312448eb225', 'Sales BPP', 1)",
+  "command": "mysql --batch --raw --column-names --default-character-set=utf8mb4 --host gateway02.us-east-1.prod.aws.tidbcloud.com --port 4000 --user ba1p5yD7vt8zqRm.5b1ab4a7dfc6 --database aBHmNrnRdAVqKd3QAXUXQB --execute INSERT INTO sales_users (username, password, fullName, isActive) VALUES ('salebpp', '15e2b0d3c33891ebb0f1ef609ec419420c20e320ce94c65fbc8c3312448eb225', 'Sales BPP', 1)",
+  "rows": [],
+  "messages": [],
+  "stdout": "",
+  "stderr": "",
+  "execution_time_ms": 1867
+}
